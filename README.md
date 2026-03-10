@@ -453,7 +453,7 @@ XelaSphere is containerized and deployed on **Google Cloud Run** with:
 ---
 
 <p align="center">
-  <strong>Built by <a href="https://github.com/xelas-io">xelas.io</a></strong>
+  <strong>Built by <a href="https://github.com/xelauvas">xelauvas.dev</a></strong>
 </p>
 
 <p align="center">
